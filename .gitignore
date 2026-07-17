@@ -18,3 +18,13 @@ outputs/live
 
 *.pptx
 .DS_Store
+
+paper/*.log
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.out
+build.log
+texput.log
